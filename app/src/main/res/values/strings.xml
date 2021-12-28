@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDb</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">ebf67417b6038db94a0c1a864ed3184f</string>
+    <string name="title_activity_show">ShowActivity</string>
+</resources>
